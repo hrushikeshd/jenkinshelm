@@ -7,8 +7,8 @@ Pre-requisite,
 2.Namespace "jenkins" already created on k8.
 
 3.Helm V3 already installed on k8 cluster.
-
-Main Configuration,
+**
+#Main Configuration,
 
 Configure Helm
 Once Helm is installed and set up properly, add the Jenkins repo as follows:
