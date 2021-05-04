@@ -3,7 +3,9 @@
 Pre-requisite,
 
 1.K8 cluster is ready along with docker installed on it.
+
 2.Namespace "jenkins" already created on k8.
+
 3.Helm V3 already installed on k8 cluster.
 
 Main Configuration,
