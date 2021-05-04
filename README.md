@@ -12,6 +12,7 @@ Configure Helm
 Once Helm is installed and set up properly, add the Jenkins repo as follows:
 
 $ helm repo add jenkinsci https://charts.jenkins.io
+
 $ helm repo update
 
 The helm charts in the Jenkins repo can be listed with the command:
