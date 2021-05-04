@@ -1,6 +1,6 @@
-# jenkinshelm
+## Jenkinshelm
 
-Pre-requisite,
+#Pre-requisite,
 
 1.K8 cluster is ready along with docker installed on it.
 
