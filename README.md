@@ -72,11 +72,18 @@ The name of the chart jenkinsci/jenkins
 The -n flag with the name of your namespace jenkins
 
 $ chart=jenkinsci/jenkins
+
 $ helm install jenkins -n jenkins -f jenkins-values.yaml $chart
+
 This outputs something similar to the following:
+
 NAME: jenkins
+
 LAST DEPLOYED: Wed Sep 16 11:13:10 2020
+
 NAMESPACE: jenkins
+
 STATUS: deployed
+
 REVISION: 1
 
